@@ -1,10 +1,5 @@
 from Importer import *
 
-""" 
-Preproccessing module, that calculates RUL values, normalizes data and drops columns
-
-
-"""" 
 def calculate_RUL(df):
     """
     Param:
